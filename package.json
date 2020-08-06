@@ -1,0 +1,11 @@
+{
+  "name": "ejercicio-onready",
+  "version": "1.0.0",
+  "description": "",
+  "main": "Index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Gonzalo Lifrieri",
+  "license": "ISC"
+}

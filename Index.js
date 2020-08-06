@@ -70,7 +70,7 @@ function cargarVehiculos() {
 }
 
 function convertToPrice(num) {
-    return new Intl.NumberFormat('en-HOS', { style: 'currency', currency: 'USD' }).format(num);
+    return new Intl.NumberFormat('es-AR', { style: 'currency', currency: 'ARS' }).format(num);
 }
 
 function printCars(arrayVehiculos) {
